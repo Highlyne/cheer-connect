@@ -65,9 +65,13 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
-            .carousel-inner > .carousel-item > img {
+            .carousel-inner {
                 width:640px;
                 height:460px;
+            }
+            .carousel-item > img {
+                height: 100%;
+                
             }
         </style>
     </head>
@@ -99,13 +103,13 @@
                     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                <img class="d-block w-100" src="https://lh3.googleusercontent.com/1LrywmgC3hHLAnQsfBj_ret5RO-P_rU2WZMLAhJCVc11f4kA3EFlJdwkAaEYZDFPIxvV1heIOMjZzECqYcUNW61n7rEHQ2pU46hUypzA86OMu0MBIY_UPnHqVzLwviURdMfeIlSDnPUyFxR6csKZS8CDOk6w6ymU6oNSbI7W9KE8TCc6qYu2k_n2_UGlOuK3GD4PfjtlSZNDcSTFbCyltDP0enVxinCbOo5-zJEVsIe1sDVIak07mzaH37FUFwtHAyxOXJYg30fbeICzG_A6CsRysGszBAHpw961IhjFW0cB0mtaK1emlFu9QXn0xkxkbM_IUeXCQ9K2i1Jwrb8KDpxaa515tkWGza6JughDITmWmgKxwqyBde2xxmod5ixwuGasfP1tpFVlPZsNwERPGaERE0Y_pNJ0TIs8qwp4xtc6jxXVjoA47IenX4EWaVdEHcMFMyObrNYB9kdTDjKPMzSobcP5Szq0ufm4Mp_gbv4I2CSOesHI29Mn4qyRnz7_uqTVY7gffc9mq4eN9wncgxCfu0rwVvoAzIFgIUiRY56tCsUUDdOL5CmUaqYEl3tZ5DhbS_87y47gNlVHK_BKqPFI9xsBfrkR6yrLIi3JXnsJKF9KDHDwbF7kMwIiA9Jtbord2iD5TTCBZ98AiZNHLy7H5-2bRPGdtbAVYhJdz_5llYhQ3DqmDaVV=w960-h720-no" alt="First slide">
+                                <img class="d-block w-100" src="{{ URL::asset('assets/images/2018-cheersport2.JPG') }}" alt="First slide">
                                 </div>
                                 <div class="carousel-item">
-                                <img class="d-block w-100" src="https://lh3.googleusercontent.com/aJcRCIxunFyByRq3nJgpY6a5F-41xcCfjPrZyMxBxioBTZppngNK3ilimltubKedqIz3wEd9UoPZnbaXg-Ca8-XI0pTVRInkUwEtZU0hr3IiUUFFc8Q4vf8Fzl7Bo0fKvXEB3dspwBG8XvwcLj-FEyfC0v_339JY2w-FMixR6uH3bnwnTLuRaldVsAf3aclbxrzsm0WCjgB57XXejjVm9Eq2hTfSTiiRxphtZ4HtQxw7UJTnnJ1CyXDxYaKdM1fpgiBkCQmMPeGEPuwZPMCyBrm0pAbE-Xf4QHounaRFXUWbsL2lygAicsgMUoIFIIhecqS2-nbzGzV_MhnSdJPYgR_zSAkd0DohxeB4qPDRNlz4bSwme-E6kwQnBcZ5waxtYQf8sXS7C1QMUup5mWUGInZOcw0ViavpnJuuTJ8cMbcYnfkpeopc9XSbRNDG0rLLaqcL8jX_q-GV51JslBhu7NtYS7chcN0sjNLTTBYwjhB0gcIaL68fVvLixA6yR200dInBVOQYOR0gNomk-ZSCr1aLyx1-VMDcrir_hhlEAWluMiBfkpTECdWBq_NMLy8KvBiuvmfKGMkxMHvH1n9id9gvrSR7qrdPyVf5GNRE1YzFOP-KMJHiqbKAG1nymszbfLaOOCSK29Hv25gKrN_ep94-a9FySP1PSLLqgoR6e59JWA_fDHYEJKiK=w1206-h1606-no" alt="Second slide">
+                                <img class="d-block w-100" src="{{ URL::asset('assets/images/2018-coaches.JPG') }}" alt="Second slide">
                                 </div>
                                 <div class="carousel-item">
-                                <img class="d-block w-100" src="https://lh3.googleusercontent.com/xsG_IM84dPQ5BJ5k_WQseADJdgfaAoGEkmC00LzGc-OmqlEziI8MBFfA75IaXPuHwbkmoFXJ-1A00ChGT4sMcPSPvSUrVilOrLLaiu4U5RIIKqxQtVTVzBOqfKIk7tfEl0WLfGCvz2m2Vz7KkP22z5wrhTfJPBat35Rvs3acFv-nIUTieA51tmlSsvqRBVgZIvC1K_TBteNUtnIkntZiGlusPWFdCGLsCGQOt7HCArO8zujscIOBXeq-99Y1vYZ_UoBUmQNBaqrk_rrgwdBDVYgaNeGmKrCNjOthAqRo8mk1_-AxSFpTeYfHWKQqqIciEGdqEOMdP2QSciYTiNtfhxfV68JR9ouDTYAH9fEBCTXGQGzIDqpd-bIKvgNTZ5NYReddA6dkC9a8gZu5l48MAePqbIt6Pw9pf1HNRXC2yMegJe9-N7eu-LBwmRr9jI6GUd6f6x6hoy_Zd8cDL-HZrR1l7bkS_dvNBByiEAt8IXyl-6OBa05oM33sq86n7GmcvMPvd9rQiL3LUYn5cEakDj3Gpt59Ms1jm7Uhpq3EiNGgB1Yc7ka3Dp5CM3_J4NPdeof0d7T6QKILjMGkU9XWfz86S742YxzKu8Am_2BnPd2NOGp7Rnh-AB97gJK0C5VPVc7sGrYjs50Gr8qlVyhYqj2Zqat7S03vxw3gDujjdAzPSIfJ_9Qfx6shAA=w1440-h1080-no" alt="Third slide">
+                                <img class="d-block w-100" src="{{ URL::asset('assets/images/2018-uca.JPG') }}" alt="Third slide">
                                 </div>
                             </div>
                             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
