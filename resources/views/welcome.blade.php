@@ -129,6 +129,7 @@
                         <a href="https://photos.google.com/share/AF1QipOBwzpl49-KBMc-5M18Za95okbOdySKxKvMFBk-6ih8o9YqqotYyOW7WuTISlqJFA?key=NUlTT2lmcHVmRk9hd0lZUmdseWtLMEZpRGI2LXdn">Mint Banquet</a>
                         <a href="https://photos.google.com/share/AF1QipNcRkNS78cc9bQ83Dwp0eX1wE6IiaWGDAu4DLXqy5MAlsaKOT2g_tVro225PPW7Cw?key=R294dFFvbDRBSXdFaDNYcy1oOHl3MnE1ZzVjM1JR">UCS Internationals 2018</a>
                         <a href="https://photos.google.com/share/AF1QipNjTTvXp4dbYCY-IKCSsi1arhDwxkCvEHvhTkqtqdmRols6rDw0CpcjgqGZ9pz0Vg?key=RTRodjVDSkUzZ0haRWY5Wm1wNUdTYk0tQlI1TVlR">American Open</a>
+                        <a href="https://photos.app.goo.gl/jhHPufedcUvq7ukL9">Minting Around</a>
                     </div>
                 </div>
             </div>

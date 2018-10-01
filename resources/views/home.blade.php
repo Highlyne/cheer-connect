@@ -15,6 +15,8 @@
                     @endif
 
                     You are logged in!
+                    This will be all parent related information.
+                    
                 </div>
             </div>
         </div>
